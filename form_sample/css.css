@@ -1,0 +1,40 @@
+.heading{
+   text-align: center;
+   color: #fff;
+   font-size: 30px;
+}
+body{
+   background-image: url("universe.jpg");
+   position: relative;
+}
+fieldset{
+   width: 50%;
+   text-align: center;
+   height: 650px;
+   color: #fff;
+   font-size: 42px;
+   background-image: url("universe_2.jpg");
+   
+}
+form{
+   padding-left: 410px;
+}
+input{
+   width: 180px;
+   height: 30px;
+   border-radius: 8px;
+}
+label{
+   font-size: 30px;
+}
+.submit{
+   font-size: 20px;
+   width: 120px;
+    height: 35px;
+}
+.textarea{
+   padding-top: 30px;
+}
+textarea{
+   border-radius: 8px;
+}
